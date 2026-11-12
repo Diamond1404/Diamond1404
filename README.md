@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Dayo Daramola 👋
+Computer Science Student | AI-Assisted Developer | Aspiring Software Engineer
+I'm a Computer Science student at Afe Babalola University (ABUAD), Nigeria, with a strong interest in software engineering, artificial intelligence, data analytics and technology innovation.
+I enjoy turning ideas into digital solutions by building websites, exploring mobile application development and using AI-powered tools to improve my development workflow.
 
-<!--
-**Diamond1404/Diamond1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Skills
+- Programming: HTML, CSS, JavaScript, SQL
+- Mobile Development: React Native
+- Data Analysis: Microsoft Excel, spreadsheets and data visualization
+- AI-Assisted Development: AI-powered coding, debugging and prototyping
 
-Here are some ideas to get you started:
+🤖 AI Tools
+- Claude
+- ChatGPT
+- Google Gemini
+- GitHub Copilot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects & Interests
+- BAMMY STORE NG - Online Store 
+- DiGi-LEARN AI – AI-powered learning and lecture visualization application.
+- DiGi Digital Wallet – Digital wallet and fintech application concept.
+- Website development and responsive web design.
+- Data analysis and spreadsheet projects.
+- Mobile application development.
+
+🎯 Career Interests
+- Software Development
+- AI Training and Evaluation
+- Data Analytics
+- AI-Assisted Application Development
+- Freelance Technology Services
+
+📫 Let's Connect
+- GitHub: https://github.com/Diamond1404
+- Location: Nigeria
+
+My Motto: Turning ideas into digital solutions.
